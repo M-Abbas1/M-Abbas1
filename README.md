@@ -48,7 +48,7 @@ height="45" width="45"/>
 <!-- 👁️ GitHub Profile View Counter -->
 <!-- =============================== -->
 <p align="center">
-  <img width="180px" src="https://komarev.com/ghpvc/?username=muhammad-abbas&label=👁️+Profile+Views&color=blueviolet&style=plastic" />
+  <img width="180px" src="https://komarev.com/ghpvc/?username=M-Abbas1&label=👁️+Profile+Views&color=blueviolet&style=plastic" />
 </p>
 
 
