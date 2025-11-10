@@ -331,9 +331,18 @@
 
 ---
 
+<<<<<<< HEAD
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontAlignY=70&animation=twinkling" width="100%"/>
 </div>
+=======
+<!-- =============================== -->
+<!-- 👁️ GitHub Profile View Counter -->
+<!-- =============================== -->
+<p align="center">
+  <img width="180px" src="https://komarev.com/ghpvc/?username=M-Abbas1&label=👁️+Profile+Views&color=blueviolet&style=plastic" />
+</p>
+>>>>>>> 56992c3e07b1dfa20cc0e6634bdca1d497313a40
 
 <div align="center">
   <em>"The best way to predict the future is to create it." – Peter Drucker</em>
