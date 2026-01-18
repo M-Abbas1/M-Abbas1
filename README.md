@@ -92,17 +92,17 @@
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
+<img src="assets/artificial-intelligence.png" width="60"/>
 <br><strong>Medical AI</strong>
 <br><sub>Deep Learning for Medical Imaging</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/visible.png" width="60"/>
+<img src="assets/visible.png" width="60"/>
 <br><strong>Computer Vision</strong>
 <br><sub>Transformer-based Vision Models</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/processor.png" width="60"/>
+<img src="assets/processor.png" width="60"/>
 <br><strong>Edge AI</strong>
 <br><sub>Efficient AI for Low-Resource Devices</sub>
 </td>
