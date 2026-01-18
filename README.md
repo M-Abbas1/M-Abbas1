@@ -97,7 +97,7 @@
 <br><sub>Deep Learning for Medical Imaging</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/eye.png" width="60"/>
+<img src="https://img.icons8.com/color/96/000000/visible.png" width="60"/>
 <br><strong>Computer Vision</strong>
 <br><sub>Transformer-based Vision Models</sub>
 </td>
