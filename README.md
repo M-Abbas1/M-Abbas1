@@ -257,10 +257,7 @@
 
 ## 📂 Featured Projects
 
-<!--
 <div align="center">
-
-### 🔬 Computer Vision & AI Projects
 
 <table>
 <tr>
@@ -321,9 +318,9 @@
 </tr>
 </table>
 
-</div>  -->
+</div> 
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/M-Abbas1/Opencv_Python">
   <img src="[[https://github-readme-stats-9uaxprthj-muhammad-abbas-projects-32d88065.vercel.app/api/pin/?username=M-Abbas1&repo=Opencv_Python&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9](https://github-readme-stats-9uaxprthj-muhammad-abbas-projects-32d88065.vercel.app/api?username=M-Abbas1&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9&count_private=true)](https://github-readme-stats-9uaxprthj-muhammad-abbas-projects-32d88065.vercel.app/api/pin/?username=M-Abbas1&repo=Opencv_Python&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9)" width="48%" />
@@ -339,7 +336,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Abbas1&repo=DOM-Mainupulation-Web-Development&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9" width="48%" />
 </a>
 
-</div>
+</div> -->
 
 
 
@@ -350,10 +347,10 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Abbas1&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9&count_private=true" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Abbas1&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9&langs_count=8" height="180em" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Abbas1&theme=vue-dark&hide_border=true&background=0D1117&ring=2E86DE&fire=2E86DE&currStreakLabel=2E86DE" width="48%" />
