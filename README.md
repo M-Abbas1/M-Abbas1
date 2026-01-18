@@ -323,6 +323,7 @@
 </table>
 
 </div>
+
 <!-- <div align="center">
 
 <a href="https://github.com/M-Abbas1/Opencv_Python">
@@ -372,11 +373,17 @@
 
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=M-Abbas1&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+</div>
+
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=M-Abbas1&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</div>
+</div> -->
 
 ---
 
