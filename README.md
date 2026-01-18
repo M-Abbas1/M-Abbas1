@@ -257,24 +257,23 @@
 
 ## 📂 Featured Projects
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/M-Abbas1/Opencv_Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Abbas1&repo=Opencv_Python&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9" width="48%" alt="OpenCV Python"/>
+    <img src="https://img.shields.io/badge/OpenCV_Python-2E86DE?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Python"/>
   </a>
   <a href="https://github.com/M-Abbas1/AILearningTools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Abbas1&repo=AILearningTools&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9" width="48%" alt="AI Learning Tools"/>
+    <img src="https://img.shields.io/badge/AI_Learning_Tools-2E86DE?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Learning Tools"/>
   </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/M-Abbas1/Web-Design-Using-Bootstrap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Abbas1&repo=Web-Design-Using-Bootstrap&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9" width="48%" alt="Web Design Bootstrap"/>
+    <img src="https://img.shields.io/badge/Web_Design_Bootstrap-2E86DE?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Web Design Bootstrap"/>
   </a>
   <a href="https://github.com/M-Abbas1/DOM-Mainupulation-Web-Development">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Abbas1&repo=DOM-Mainupulation-Web-Development&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9" width="48%" alt="DOM Manipulation"/>
+    <img src="https://img.shields.io/badge/DOM_Manipulation-2E86DE?style=for-the-badge&logo=javascript&logoColor=white" alt="DOM Manipulation"/>
   </a>
-</div>
-
+</p>
 
 <!-- <div align="center">
 
