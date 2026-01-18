@@ -257,79 +257,72 @@
 
 ## 📂 Featured Projects
 
+## 📂 Featured Projects
+
 <div align="center">
+
+### 🔬 Computer Vision & AI Projects
+
 <table>
 <tr>
-<td width="50%" valign="top">
-🔬 OpenCV Python
-Computer Vision & Image Processing
-A comprehensive collection of OpenCV projects demonstrating real-time computer vision applications, image processing techniques, and practical implementations for CV research.
+<td width="50%">
+<h3 align="center">OpenCV Python</h3>
 <p align="center">
 <a href="https://github.com/M-Abbas1/Opencv_Python" target="_blank">
-<img src="https://img.shields.io/badge/View_Repository-2E86DE?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+<img src="https://img.shields.io/badge/View_Project-2E86DE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+<p align="center">Computer Vision projects and tutorials using OpenCV</p>
 <p align="center">
-<img src="https://img.shields.io/github/stars/M-Abbas1/Opencv_Python?style=flat-square&color=2E86DE" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/M-Abbas1/Opencv_Python?style=flat-square&color=2E86DE" alt="Forks"/>
-<img src="https://img.shields.io/github/issues/M-Abbas1/Opencv_Python?style=flat-square&color=2E86DE" alt="Issues"/>
+<img src="https://img.shields.io/github/stars/M-Abbas1/Opencv_Python?style=social"/>
+<img src="https://img.shields.io/github/forks/M-Abbas1/Opencv_Python?style=social"/>
 </p>
-Tech Stack: OpenCV Python NumPy Image Processing
 </td>
-<td width="50%" valign="top">
-🤖 AI Learning Tools
-Machine Learning Utilities
-A curated collection of AI and machine learning tools, utilities, and implementations designed to accelerate the learning process and provide practical examples of ML concepts.
+<td width="50%">
+<h3 align="center">AI Learning Tools</h3>
 <p align="center">
 <a href="https://github.com/M-Abbas1/AILearningTools" target="_blank">
-<img src="https://img.shields.io/badge/View_Repository-2E86DE?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+<img src="https://img.shields.io/badge/View_Project-2E86DE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+<p align="center">Collection of AI and Machine Learning utilities</p>
 <p align="center">
-<img src="https://img.shields.io/github/stars/M-Abbas1/AILearningTools?style=flat-square&color=2E86DE" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/M-Abbas1/AILearningTools?style=flat-square&color=2E86DE" alt="Forks"/>
-<img src="https://img.shields.io/github/issues/M-Abbas1/AILearningTools?style=flat-square&color=2E86DE" alt="Issues"/>
+<img src="https://img.shields.io/github/stars/M-Abbas1/AILearningTools?style=social"/>
+<img src="https://img.shields.io/github/forks/M-Abbas1/AILearningTools?style=social"/>
 </p>
-Tech Stack: TensorFlow PyTorch Scikit-learn Python
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-🎨 Web Design Bootstrap
-Responsive Web Development
-Modern responsive web design projects built with Bootstrap framework, showcasing best practices in front-end development and mobile-first design principles.
+<td width="50%">
+<h3 align="center">Web Design Bootstrap</h3>
 <p align="center">
 <a href="https://github.com/M-Abbas1/Web-Design-Using-Bootstrap" target="_blank">
-<img src="https://img.shields.io/badge/View_Repository-2E86DE?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+<img src="https://img.shields.io/badge/View_Project-2E86DE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+<p align="center">Responsive web design projects with Bootstrap</p>
 <p align="center">
-<img src="https://img.shields.io/github/stars/M-Abbas1/Web-Design-Using-Bootstrap?style=flat-square&color=2E86DE" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/M-Abbas1/Web-Design-Using-Bootstrap?style=flat-square&color=2E86DE" alt="Forks"/>
-<img src="https://img.shields.io/github/issues/M-Abbas1/Web-Design-Using-Bootstrap?style=flat-square&color=2E86DE" alt="Issues"/>
+<img src="https://img.shields.io/github/stars/M-Abbas1/Web-Design-Using-Bootstrap?style=social"/>
+<img src="https://img.shields.io/github/forks/M-Abbas1/Web-Design-Using-Bootstrap?style=social"/>
 </p>
-Tech Stack: Bootstrap HTML5 CSS3 JavaScript
 </td>
-<td width="50%" valign="top">
-📱 DOM Manipulation
-JavaScript & Web Development
-Interactive JavaScript projects focusing on DOM manipulation techniques, event handling, and dynamic web page interactions for enhanced user experiences.
+<td width="50%">
+<h3 align="center">DOM Manipulation</h3>
 <p align="center">
 <a href="https://github.com/M-Abbas1/DOM-Mainupulation-Web-Development" target="_blank">
-<img src="https://img.shields.io/badge/View_Repository-2E86DE?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+<img src="https://img.shields.io/badge/View_Project-2E86DE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+<p align="center">JavaScript DOM manipulation examples</p>
 <p align="center">
-<img src="https://img.shields.io/github/stars/M-Abbas1/DOM-Mainupulation-Web-Development?style=flat-square&color=2E86DE" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/M-Abbas1/DOM-Mainupulation-Web-Development?style=flat-square&color=2E86DE" alt="Forks"/>
-<img src="https://img.shields.io/github/issues/M-Abbas1/DOM-Mainupulation-Web-Development?style=flat-square&color=2E86DE" alt="Issues"/>
+<img src="https://img.shields.io/github/stars/M-Abbas1/DOM-Mainupulation-Web-Development?style=social"/>
+<img src="https://img.shields.io/github/forks/M-Abbas1/DOM-Mainupulation-Web-Development?style=social"/>
 </p>
-Tech Stack: JavaScript HTML5 CSS3 DOM API
 </td>
 </tr>
 </table>
-</div>
 
+</div>
 <!-- <div align="center">
 
 <a href="https://github.com/M-Abbas1/Opencv_Python">
