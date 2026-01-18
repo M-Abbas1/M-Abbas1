@@ -257,6 +257,72 @@
 
 ## 📂 Featured Projects
 
+
+<div align="center">
+
+### 🔬 Computer Vision & AI Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">OpenCV Python</h3>
+<p align="center">
+<a href="https://github.com/M-Abbas1/Opencv_Python" target="_blank">
+<img src="https://img.shields.io/badge/View_Project-2E86DE?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p align="center">Computer Vision projects and tutorials using OpenCV</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/M-Abbas1/Opencv_Python?style=social"/>
+<img src="https://img.shields.io/github/forks/M-Abbas1/Opencv_Python?style=social"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">AI Learning Tools</h3>
+<p align="center">
+<a href="https://github.com/M-Abbas1/AILearningTools" target="_blank">
+<img src="https://img.shields.io/badge/View_Project-2E86DE?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p align="center">Collection of AI and Machine Learning utilities</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/M-Abbas1/AILearningTools?style=social"/>
+<img src="https://img.shields.io/github/forks/M-Abbas1/AILearningTools?style=social"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Web Design Bootstrap</h3>
+<p align="center">
+<a href="https://github.com/M-Abbas1/Web-Design-Using-Bootstrap" target="_blank">
+<img src="https://img.shields.io/badge/View_Project-2E86DE?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p align="center">Responsive web design projects with Bootstrap</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/M-Abbas1/Web-Design-Using-Bootstrap?style=social"/>
+<img src="https://img.shields.io/github/forks/M-Abbas1/Web-Design-Using-Bootstrap?style=social"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">DOM Manipulation</h3>
+<p align="center">
+<a href="https://github.com/M-Abbas1/DOM-Mainupulation-Web-Development" target="_blank">
+<img src="https://img.shields.io/badge/View_Project-2E86DE?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p align="center">JavaScript DOM manipulation examples</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/M-Abbas1/DOM-Mainupulation-Web-Development?style=social"/>
+<img src="https://img.shields.io/github/forks/M-Abbas1/DOM-Mainupulation-Web-Development?style=social"/>
+</p>
+</td>
+</tr>
+</table>
+
+</div>
+
 <!-- <div align="center">
 
 <a href="https://github.com/M-Abbas1/Opencv_Python">
