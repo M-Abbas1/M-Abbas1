@@ -326,7 +326,7 @@
 <div align="center">
 
 <a href="https://github.com/M-Abbas1/Opencv_Python">
-  <img src="[https://github-readme-stats-9uaxprthj-muhammad-abbas-projects-32d88065.vercel.app/api/pin/?username=M-Abbas1&repo=Opencv_Python&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9](https://github-readme-stats-9uaxprthj-muhammad-abbas-projects-32d88065.vercel.app/api?username=M-Abbas1&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9&count_private=true)" width="48%" />
+  <img src="[[https://github-readme-stats-9uaxprthj-muhammad-abbas-projects-32d88065.vercel.app/api/pin/?username=M-Abbas1&repo=Opencv_Python&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9](https://github-readme-stats-9uaxprthj-muhammad-abbas-projects-32d88065.vercel.app/api?username=M-Abbas1&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9&count_private=true)](https://github-readme-stats-9uaxprthj-muhammad-abbas-projects-32d88065.vercel.app/api/pin/?username=M-Abbas1&repo=Opencv_Python&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9)" width="48%" />
 </a>
 <a href="https://github.com/M-Abbas1/AILearningTools">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Abbas1&repo=AILearningTools&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=2E86DE&text_color=C9D1D9" width="48%" />
