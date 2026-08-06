@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" role="img" aria-label="Currently working terminal">
+  <defs>
+    <linearGradient id="bgT" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="barT" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="50%" stop-color="#2E86DE"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="300" rx="12" fill="url(#bgT)" stroke="#2E86DE" stroke-width="2"/>
+  <rect width="600" height="34" rx="12" fill="url(#barT)" opacity="0.9"/>
+  <rect y="34" width="600" height="2" fill="#2E86DE" opacity="0.5"/>
+
+  <circle cx="20" cy="17" r="5.5" fill="#ff5f56"/>
+  <circle cx="40" cy="17" r="5.5" fill="#ffbd2e"/>
+  <circle cx="60" cy="17" r="5.5" fill="#27c93f"/>
+  <text x="300" y="22" font-family="monospace" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">~/muhammad-abbas &#8212; zsh</text>
+
+  <g font-family="'Courier New',monospace" font-size="14">
+    <text x="20" y="72"  fill="#27c93f">$</text>
+    <text x="38" y="72"  fill="#c9d1d9">whoami --status</text>
+
+    <text x="20" y="102" fill="#8b949e">&#8594;</text>
+    <text x="40" y="102" fill="#79c0ff">focus</text>
+    <text x="95" y="102" fill="#c9d1d9">: Wireless Capsule Endoscopy (WCE)</text>
+
+    <text x="40" y="128" fill="#79c0ff">learning</text>
+    <text x="120" y="128" fill="#c9d1d9">: Vision Transformers &amp; DETR</text>
+
+    <text x="40" y="154" fill="#79c0ff">building</text>
+    <text x="115" y="154" fill="#c9d1d9">: Medical image segmentation pipeline</text>
+
+    <text x="40" y="180" fill="#79c0ff">reading</text>
+    <text x="105" y="180" fill="#c9d1d9">: Attention Is All You Need (re-read #7)</text>
+
+    <text x="40" y="206" fill="#79c0ff">collab</text>
+    <text x="98" y="206" fill="#c9d1d9">: open to research &amp; CV projects</text>
+
+    <text x="20" y="240" fill="#27c93f">$</text>
+    <text x="38" y="240" fill="#c9d1d9">deploy model.onnx</text>
+    <rect x="205" y="228" width="9" height="16" fill="#00d4ff">
+      <animate attributeName="opacity" values="0;1;1;0" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect y="270" width="600" height="30" fill="#161b22" opacity="0.85"/>
+  <rect y="270" width="600" height="1" fill="#2E86DE" opacity="0.4"/>
+  <circle cx="20" cy="285" r="4" fill="#27c93f">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="34" y="289" font-family="monospace" font-size="11" fill="#8b949e">online</text>
+  <text x="580" y="289" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="end">DIP Lab &#183; ICP Peshawar</text>
+</svg>
