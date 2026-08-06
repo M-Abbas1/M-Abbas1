@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Header gradient -->
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#2E86DE;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="600" height="400" rx="12" fill="url(#bgGradient)" stroke="#2E86DE" stroke-width="2"/>
+  
+  <!-- Header bar -->
+  <rect width="600" height="40" rx="12" fill="url(#headerGradient)" opacity="0.9"/>
+  <rect y="40" width="600" height="2" fill="#2E86DE" opacity="0.5"/>
+  
+  <!-- Window controls -->
+  <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="20" r="6" fill="#27c93f"/>
+  
+  <!-- Title -->
+  <text x="300" y="26" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    🤖 AIResearcher.py
+  </text>
+
+  <!-- Line numbers -->
+  <g font-family="'Courier New', monospace" font-size="13" fill="#484f58">
+    <text x="25" y="75">1</text>
+    <text x="25" y="95">2</text>
+    <text x="25" y="115">3</text>
+    <text x="25" y="135">4</text>
+    <text x="25" y="155">5</text>
+    <text x="25" y="175">6</text>
+    <text x="25" y="195">7</text>
+    <text x="25" y="215">8</text>
+    <text x="25" y="235">9</text>
+    <text x="20" y="255">10</text>
+    <text x="20" y="275">11</text>
+    <text x="20" y="295">12</text>
+    <text x="20" y="315">13</text>
+    <text x="20" y="335">14</text>
+    <text x="20" y="355">15</text>
+    <text x="20" y="375">16</text>
+  </g>
+
+  <!-- Vertical line separator -->
+  <line x1="45" y1="50" x2="45" y2="390" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Code content -->
+  <g font-family="'Courier New', monospace" font-size="13">
+    <!-- Line 1 -->
+    <text x="55" y="75" fill="#ff7b72">class</text>
+    <text x="105" y="75" fill="#d2a8ff">AIResearcher</text>
+    <text x="215" y="75" fill="#c9d1d9">:</text>
+
+    <!-- Line 2 -->
+    <text x="70" y="95" fill="#ff7b72">def</text>
+    <text x="110" y="95" fill="#d2a8ff">__init__</text>
+    <text x="190" y="95" fill="#c9d1d9">(</text>
+    <text x="198" y="95" fill="#79c0ff">self</text>
+    <text x="238" y="95" fill="#c9d1d9">):</text>
+
+    <!-- Line 3 -->
+    <text x="85" y="115" fill="#79c0ff">self</text>
+    <text x="125" y="115" fill="#c9d1d9">.name = </text>
+    <text x="195" y="115" fill="#a5d6ff">"Muhammad Abbas"</text>
+
+    <!-- Line 4 -->
+    <text x="85" y="135" fill="#79c0ff">self</text>
+    <text x="125" y="135" fill="#c9d1d9">.role = </text>
+    <text x="195" y="135" fill="#a5d6ff">"AI Research Assistant"</text>
+
+    <!-- Line 5 -->
+    <text x="85" y="155" fill="#79c0ff">self</text>
+    <text x="125" y="155" fill="#c9d1d9">.location = </text>
+    <text x="222" y="155" fill="#a5d6ff">"Peshawar, Pakistan"</text>
+
+    <!-- Line 6 -->
+    <text x="85" y="175" fill="#79c0ff">self</text>
+    <text x="125" y="175" fill="#c9d1d9">.education = </text>
+    <text x="230" y="175" fill="#a5d6ff">"BS Software Engineering"</text>
+
+    <!-- Line 7 -->
+    <text x="85" y="195" fill="#79c0ff">self</text>
+    <text x="125" y="195" fill="#c9d1d9">.research_focus = [</text>
+
+    <!-- Line 8 -->
+    <text x="100" y="215" fill="#a5d6ff">"Medical Image Analysis"</text>
+    <text x="290" y="215" fill="#c9d1d9">,</text>
+
+    <!-- Line 9 -->
+    <text x="100" y="235" fill="#a5d6ff">"Computer Vision"</text>
+    <text x="250" y="235" fill="#c9d1d9">,</text>
+
+    <!-- Line 10 -->
+    <text x="100" y="255" fill="#a5d6ff">"Deep Learning"</text>
+    <text x="230" y="255" fill="#c9d1d9">,</text>
+
+    <!-- Line 11 -->
+    <text x="100" y="275" fill="#a5d6ff">"Transformer Models"</text>
+
+    <!-- Line 12 -->
+    <text x="85" y="295" fill="#c9d1d9">]</text>
+
+    <!-- Line 13 - empty -->
+    
+    <!-- Line 14 -->
+    <text x="70" y="335" fill="#ff7b72">def</text>
+    <text x="110" y="335" fill="#d2a8ff">current_work</text>
+    <text x="230" y="335" fill="#c9d1d9">(</text>
+    <text x="238" y="335" fill="#79c0ff">self</text>
+    <text x="278" y="335" fill="#c9d1d9">):</text>
+
+    <!-- Line 15 -->
+    <text x="85" y="355" fill="#ff7b72">return</text>
+    <text x="143" y="355" fill="#c9d1d9">{</text>
+    <text x="155" y="355" fill="#a5d6ff">"lab"</text>
+    <text x="195" y="355" fill="#c9d1d9">: </text>
+    <text x="210" y="355" fill="#a5d6ff">"DIP Lab"</text>
+    <text x="285" y="355" fill="#c9d1d9">, ...</text>
+    <text x="340" y="355" fill="#8b949e">}</text>
+  </g>
+
+  <!-- Cursor animation -->
+  <rect x="385" y="343" width="8" height="16" fill="#2E86DE" opacity="0.8">
+    <animate attributeName="opacity" values="0;1;1;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom status bar -->
+  <rect y="385" width="600" height="15" fill="#161b22" opacity="0.8"/>
+  <text x="15" y="396" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">
+    ● Python 3.x  |  UTF-8  |  Ln 15, Col 43
+  </text>
+  
+  <!-- Language indicator -->
+  <circle cx="560" cy="392" r="4" fill="#3572A5"/>
+  <text x="570" y="396" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">Py</text>
+
+</svg>
