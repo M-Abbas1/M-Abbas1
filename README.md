@@ -361,7 +361,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Abbas1&repo=Web-Design-Using-Bootstrap&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=00D4FF&text_color=C9D1D9" width="48%" />
 </a>
 <a href="https://github.com/M-Abbas1/Artificial-Inteligence-Machine-Learning-and-Deep-Learning-NAVTTC-Course-2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Abbas1&repo=DOM-Mainupulation-Web-Development&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=00D4FF&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Abbas1&repo=Artificial-Inteligence-Machine-Learning-and-Deep-Learning-NAVTTC-Course-2026&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=00D4FF&text_color=C9D1D9" width="48%" />
 </a>
 
 </div>
