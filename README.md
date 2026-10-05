@@ -350,9 +350,10 @@
 
 <div align="center">
 
-<a href="https://github.com/M-Abbas1/GIB-NET">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Abbas1&repo=GIB-NETR&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=00D4FF&text_color=C9D1D9" width="48%" />
+<a href="https://github.com/M-Abbas1/Fruit-Disease-Classification-and-Streamlit-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Abbas1&repo=Fruit-Disease-Classification-and-Streamlit-App&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=00D4FF&text_color=C9D1D9" width="48%" />
 </a>
+
 <a href="https://github.com/M-Abbas1/Fruit-Disease-Classification-and-Streamlit-App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Abbas1&repo=Fruit-Disease-Classification-and-Streamlit-App&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=00D4FF&text_color=C9D1D9" width="48%" />
 </a>
