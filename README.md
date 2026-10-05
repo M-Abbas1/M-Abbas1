@@ -329,7 +329,7 @@
 </tr>
 <tr>
 <td align="center"><strong>Ongoing</strong></td>
-<td>🎓 Pursuing <strong>BS Software Engineering</strong> at Islamia College University, Peshawar</td>
+<td>🎓 Completed <strong>BS Software Engineering</strong> at Islamia College University, Peshawar</td>
 </tr>
 </table>
 
