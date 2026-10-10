@@ -15,7 +15,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" height="38" width="38"/>
+  <!-- <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" height="38" width="38"/> -->
   <h3>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E86DE&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI+Research+Assistant;Deep+Learning+%26+Computer+Vision+Enthusiast;Turning+pixels+into+medical+insight" alt="Typing Animation" />
   </h3>
