@@ -410,6 +410,7 @@
 <!-- 🏆 GitHub Trophies                                            -->
 <!-- ============================================================ -->
 
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -419,6 +420,7 @@
 <div align="center">
   <img src="./assets/professional-divider.svg" width="100%" alt="Divider" />
 </div>
+-->
 
 <!-- ============================================================ -->
 <!-- 🤝 Connect With Me                                            -->
