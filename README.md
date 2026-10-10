@@ -328,7 +328,7 @@
 <td>💊 Began research on <strong>Wireless Capsule Endoscopy</strong> detection &amp; segmentation</td>
 </tr>
 <tr>
-<td align="center"><strong>Ongoing</strong></td>
+<td align="center"><strong>2025</strong></td>
 <td>🎓 Completed <strong>BS Software Engineering</strong> at Islamia College University, Peshawar</td>
 </tr>
 </table>
